@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F747&center=true&vCenter=true&width=435&lines=%E4%BA%BA+%E9%96%93+%E5%AB%8C+%E3%81%84+%E3%81%AA+%E3%82%93+%E3%81%A0)](https://github.com/2200737807)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F768&center=true&vCenter=true&width=435&lines=%E4%BA%BA+%E9%96%93+%E5%AB%8C+%E3%81%84+%E3%81%AA+%E3%82%93+%E3%81%A0;%E6%88%91+%E8%AE%A8+%E5%8E%8C+%E4%BA%BA+%E7%B1%BB;I+hate+humans;%EC%A0%80%EB%8A%94+%EC%9D%B8%EA%B0%84%EC%9D%B4+%EC%8B%AB%EC%96%B4%EC%9A%94)](https://github.com/2200737807)
 
 ---
 
