@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 动图 -->
-  <img src="https://https://pic1.imgdb.cn/item/6934231929742bb2b6927636.gif" /><br>
+  <img src="https://pic1.imgdb.cn/item/6934231929742bb2b6927636.gif" /><br>
 
 # Hi there, I'm 绘念 👋
 
