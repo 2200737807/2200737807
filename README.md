@@ -1,3 +1,6 @@
+  <!-- 动图 -->
+  <img src="[https://https://pic1.imgdb.cn/item/6934231929742bb2b6927636.gif" /><br>
+
 # Hi there, I'm 绘念 👋
 
 `🧑‍💻 二手程序员` | `🗾 旅行定制师` | `✨ 桌搭爱好者`
