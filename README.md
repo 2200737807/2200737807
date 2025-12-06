@@ -1,5 +1,4 @@
-[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F731&center=true&width=435&lines=https%3A%2F%2Fgithub.com%2F2200737807)](https://git.io/typing-svg)
-](https://readme-typing-svg.herokuapp.com/demo/?color=13F731&center=true&random=true&lines=https%3A%2F%2Fgithub.com%2F2200737807)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F731&center=true&random=true&width=435&lines=https%3A%2F%2Fgithub.com%2F2200737807)](https://git.io/typing-svg)
 
 ---
 
