@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=https%3A%2F%2Fgithub.com%2F2200737807)](https://git.io/typing-svg)
+
+---
+
 <div align="center">
   <!-- 动图 -->
   <img src="https://pic1.imgdb.cn/item/6934231929742bb2b6927636.gif"/><br>
